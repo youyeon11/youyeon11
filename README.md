@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black" />&nbsp
-  
+  <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=black" />&nbsp
 </div>
 
 <br>
