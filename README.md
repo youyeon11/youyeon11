@@ -1,19 +1,27 @@
+## Activities
+- 2022.12
+    - 중앙대학교 제3회 데이터 분석 공모전 우수상(3등) - 서울시민카드 활성화 및 공공시설 이용객 증대
+
+- 2023.07-2023.08
+    - OUTTA AI 부트캠프 데이터반(Python) 수료
+      
+- 2023.12
+    - 중앙대학교 제4회 데이터 분석 공모전 우수상(2등) - 숙박시설 리뷰 감성 분석을 통한 평점 예측 및 연관어 도출
+
+- 2024.01
+    - BDA 태블로 신병훈련소 수료
+
+- 2024.01-2024.03
+    - 삼정 KPMG Data Engineering Intern
+      
+- 2024.03-07
+    - 제로베이스 백엔드 스쿨 22기
+
+- 2024.08-2025.01
+    - 4차산업 혁명 IT 연합 동아리 TAVE 14기 BE - 연합 프로젝트: 응급 상황 대처 가이드라인 서비스 삐용삐용
+
+
 ## Hi there 👋
-
-<!--
-**youyeon11/youyeon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
