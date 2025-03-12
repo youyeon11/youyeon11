@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=aws&logoColor=F37726" />&nbsp
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=F37726" />&nbsp
 <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 <br>
