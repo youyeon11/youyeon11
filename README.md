@@ -84,4 +84,4 @@
     - 프로젝트 IT 연합 동아리 잇타(It's Time) 7기 BE
  
 - 2025.03
-    - UMC 8기 중앙대학교 SpringBoot SeniorTeam
+    - UMC 8기 중앙대학교 SpringBoot
