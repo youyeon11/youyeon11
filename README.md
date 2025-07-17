@@ -3,8 +3,9 @@
 <div align="center">
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring,mysql,redis,r,fastapi,c&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,c&theme=light)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,redis,r,fastapi&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,postman&theme=light)](https://skillicons.dev)
 <br>
  [![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux)](https://skillicons.dev)
