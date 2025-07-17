@@ -25,6 +25,15 @@
   </a>
 </div>
 
+## Github Stats
+<div align="center">
+ 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youyeon11&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<br>
+  
+
 ## Activities
 - 2022.12
     - 중앙대학교 제3회 데이터 분석 공모전 우수상(3등) - 서울시민카드 활성화 및 공공시설 이용객 증대
