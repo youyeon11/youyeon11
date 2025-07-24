@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql,redis,r,fastapi&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,postman&theme=light)](https://skillicons.dev)
 <br>
- [![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux&theme=light)](https://skillicons.dev)
 </div>
 
 <div align="center">
